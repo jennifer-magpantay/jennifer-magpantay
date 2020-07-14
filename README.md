@@ -1,16 +1,21 @@
-### Hi there 👋
+## Who am I?
 
-<!--
-**jennifer-magpantay/jennifer-magpantay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A longlife-learner, curious and recently graduated in Science in Information Technology by CCT College Dublin, looking of opportunities in ICT field, mainly but not restricted to Web Development.
 
-Here are some ideas to get you started:
+### What I have done?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check it out: 
+
+.[@my Git Repositores](https://github.com/jennifer-magpantay) - mix of small ongoing or already done projects
+
+.[@my Git Page](https://jennifer-magpantay.github.io/OpenApp_Bootstrap/) - my very first one!
+
+.[@Behance profile](https://www.behance.net/jennifer_magpantay)
+
+
+### How to reach me?
+
+.[@Linkedin](https://www.linkedin.com/in/jennifermagpantay/)
+ 
+
+
