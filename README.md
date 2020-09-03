@@ -6,7 +6,7 @@ A longlife-learner, curious and recently graduated in Science in Information Tec
 
 Check it out: 
 
-.[@my Git Repositores](https://github.com/jennifer-magpantay) - mix of small ongoing or already done projects
+.[@my Git Repositores](https://github.com/jennifer-magpantay?tab=repositories) - mix of small ongoing or already done projects
 
 .[@my Git Page](https://jennifer-magpantay.github.io/OpenApp_Bootstrap/) - my very first one!
 
