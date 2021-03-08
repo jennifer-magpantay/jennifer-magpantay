@@ -6,11 +6,11 @@ A longlife-learner, curious and recently graduated in Information Technology fro
 
 Check it out: 
 
-[@my Git Repositores](https://github.com/jennifer-magpantay?tab=repositories) - mix of small ongoing or already done projects
+[@my Git Repositores](https://github.com/jennifer-magpantay?tab=repositories) - a mix of small ongoing or already done projects
 
-[@my Git Page](https://jennifer-magpantay.github.io/OpenApp_Bootstrap/) - my very first one!
+[@my Git Page](https://jennifer-magpantay.github.io/openapp-bootstrap/) - my very first Git Page developded using Bootstrap.
 
-[@Behance profile](https://www.behance.net/jennifer_magpantay)
+[@Behance profile](https://www.behance.net/jennifer_magpantay) - few pieces of projects I have worked on. 
 
 
 ### How to reach me?
