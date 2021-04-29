@@ -1,6 +1,6 @@
 ## Who am I?
 
-A longlife-learner, curious and recently graduated in Information Technology from CCT College Dublin, looking of opportunities in ICT field, mainly but not restricted to Web Development.
+A lifelong-learner, passionate about design, curious and fresh graduate in Information Technology from CCT College Dublin, looking of opportunities in ICT field as Front End and Web Developer.
 
 ### What I have done?
 
