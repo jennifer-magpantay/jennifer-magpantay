@@ -20,9 +20,13 @@ Check it out:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennifer-magpantay&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jennifer_magpantay&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/jennifer-magpantay/github-readme-stats)
-
+<a href="https://github.com/jennifer-magpantay/github-readme-stats">
+<img align="left" src="https://wakatime.com/share/@jennifer_magpantay/1fed40b8-5544-4bfe-bfc8-2dabe1e774d5.svg" width="350"/>
+  </a>
+  
+  <a href="https://github.com/jennifer-magpantay/github-readme-stats">
+<img align="center" src="https://wakatime.com/share/@jennifer_magpantay/805cdc2a-1ea1-4cfc-960d-d1e3b15074b6.svg" width="350" />
+  </a>
 
 ### How to reach me?
 
