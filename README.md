@@ -8,9 +8,9 @@ Check it out:
 
 [@my Git Repositores](https://github.com/jennifer-magpantay?tab=repositories) - a mix of small ongoing or already done projects
 
-[@my Codepen](https://codepen.io/jennifer-ellen-magpantay) - my challenges and coding practices
+[@my Codepen](https://codepen.io/jennifer-ellen-magpantay) - CSS challenges and coding practices
 
-[@Behance profile](https://www.behance.net/jennifer_magpantay) - few pieces of projects I have worked on. 
+[@Behance profile](https://www.behance.net/jennifer_magpantay) - a few pieces of visual projects I have worked on. 
 
 <a href="https://github.com/jennifer-magpantay/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jennifer-magpantay&hide=stars,prs,issues&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
