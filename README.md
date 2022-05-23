@@ -4,13 +4,7 @@ A lifelong-learner, passionate about design, curious and fresh graduate in Infor
 
 ### What I have done?
 
-Check it out: 
-
-[@my Git Repositores](https://github.com/jennifer-magpantay?tab=repositories) - a mix of small ongoing or already done projects
-
-[@my Codepen](https://codepen.io/jennifer-ellen-magpantay) - CSS challenges and coding practices
-
-[@Behance profile](https://www.behance.net/jennifer_magpantay) - a few pieces of visual projects I have worked on. 
+Check it out [@my Git Repositores](https://github.com/jennifer-magpantay?tab=repositories) - a mix of personal ongoing or already done projects.
 
 <a href="https://github.com/jennifer-magpantay/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jennifer-magpantay&hide=stars,prs,issues&count_private=true&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
