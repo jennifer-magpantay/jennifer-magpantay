@@ -1,6 +1,32 @@
 ## Who am I?
 
-A lifelong-learner, passionate about design, curious and fresh graduate in Information Technology from CCT College Dublin, looking of opportunities in ICT field as Front End and Web Developer.
+A lifelong learner with a passion for technology and design, and an inquisitive mind, seeking opportunities as a Front-End Developer.
+
+University education in Information Technology, work experience as a Graphic Designer, responsive design experience, consistent UX/UI knowledge, accessibility advocate, clean and re-usable codes supporter.
+
+**Strengths:**
+- Curiosity, problem-solving, creative thinking and easy learning about new concepts.
+
+**Areas of Expertise:**
+- Front-End core stacks: HTML5,CSS3, and JavaScript;
+- Front-End libraries: React;
+- CSS pré-processors and methodologies: Sass and BEM;
+- CSS-in-JS: styled-components;
+- Project workflow: Git;
+- Prototyping: Figma;
+- Design: Illustrator, Photoshop & InDesign;
+- Customer Service & Customer Support;
+
+**Ongoing Learning:**
+- ReactJS @Rocketseat;
+- React Native @Rocketseat;
+- Typescript @Rocketseat;
+- UI Design;
+- Web accessibility;
+- Italian.
+
+**Next topics of interest?**
+- Next.js.
 
 ### What I have done?
 
