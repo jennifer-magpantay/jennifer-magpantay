@@ -2,12 +2,13 @@
 
 A lifelong learner with a passion for technology and design, and an inquisitive mind, seeking opportunities as a Front-End Developer.
 
-University education in Information Technology, work experience as a Graphic Designer, responsive design experience, consistent UX/UI knowledge, accessibility advocate, clean and re-usable codes supporter.
+Degree in Information Technology, work experience as a Graphic Designer, consistent UX/UI knowledge, accessibility and responsive design advocate, clean and re-usable codes supporter.
 
 **Strengths:**
 - Curiosity, problem-solving, creative thinking and easy learning about new concepts.
 
 **Areas of Expertise:**
+- Semantic
 - Front-End core stacks: HTML5,CSS3, and JavaScript;
 - Front-End libraries: React;
 - CSS pré-processors and methodologies: Sass and BEM;
@@ -15,18 +16,18 @@ University education in Information Technology, work experience as a Graphic Des
 - Project workflow: Git;
 - Prototyping: Figma;
 - Design: Illustrator, Photoshop & InDesign;
-- Customer Service & Customer Support;
 
 **Ongoing Learning:**
+- Web accessibility;
 - ReactJS @Rocketseat;
 - React Native @Rocketseat;
 - Typescript @Rocketseat;
 - UI Design;
-- Web accessibility;
 - Italian.
 
 **Next topics of interest?**
-- Next.js.
+- Next.js;
+- Flutter - for the sake of curiosity.
 
 ### What I have done?
 
